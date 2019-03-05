@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.logo {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.product-img {
+    color: #E303F9;
+    bottom: 500px;
+}
+.brush {
+    color: #000DF8;
+}
+h2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0px 0px #3800F7;
+    color: #1000FF;
+    text-transform: uppercase;
+    text-align: center;
+    clear: left;
+}
+p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    clear: left;
+}
+h3 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-shadow: 0px 0px #FF0004;
+    color: #FF0004;
+}
+.copyright {
+	clear: left;
+}
